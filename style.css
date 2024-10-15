@@ -1,0 +1,22 @@
+img {
+   height: 200px;
+   width: 200px;
+}
+html {
+    background: rgba(0, 0, 255, 0.13);
+}
+.photo-one{
+        font-weight: lighter;
+}
+#grey{
+    color: rgba(49, 42, 42, 0.925);
+}
+#pink{
+    color: rgb(75, 18, 18);
+}
+p[draggable]{
+    color: rgb(100, 67, 5);
+    font-size: large;
+    font-style: italic;
+    font-weight: lighter;
+}
